@@ -4,10 +4,10 @@ Sistema completo de e-commerce para distribución mayorista con panel administra
 
 ## 🏗️ Arquitectura del Proyecto
 Proyecto-Semestral/
-├── distribuidora-frontend/ # Aplicación React
-├── Proyecto-Backend/ # API REST con Node.js/Express + TypeScript
-├── .gitignore # Archivos excluidos de Git
-└── README.md # Documentación principal
+distribuidora-frontend/ # Aplicación React
+Proyecto-Backend/ # API REST con Node.js/Express + TypeScript
+.gitignore # Archivos excluidos de Git
+README.md # Documentación principal
 
 ## 🚀 Características Principales
 
