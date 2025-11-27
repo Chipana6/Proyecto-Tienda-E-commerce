@@ -3,11 +3,11 @@
 Sistema completo de e-commerce para distribución mayorista con panel administrativo, autenticación JWT y base de datos MongoDB.
 
 ## 🏗️ Arquitectura del Proyecto
-Proyecto-Semestral/
-distribuidora-frontend/ # Aplicación React
-Proyecto-Backend/ # API REST con Node.js/Express + TypeScript
-.gitignore # Archivos excluidos de Git
-README.md # Documentación principal
+## Proyecto-Semestral/
+### distribuidora-frontend/ # Aplicación React
+### Proyecto-Backend/ # API REST con Node.js/Express + TypeScript
+### .gitignore # Archivos excluidos de Git
+## README.md # Documentación principal
 
 ## 🚀 Características Principales
 
